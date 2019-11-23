@@ -1,3 +1,3 @@
 # SOPT_6_SEMINAR
 
-git Wiki : https://github.com/project-pickple/Pickple_Server/wiki
+git Wiki : https://github.com/dgu-pmos/SOPT_6_SEMINAR/wiki
